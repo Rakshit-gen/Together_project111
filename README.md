@@ -14,3 +14,7 @@ and with this you are good to go.
 To start the project just type
 ### `npm start` 
 
+Add more events in events.json to make the project look better, currently it has 6 events 2 for each section.
+
+# Thank you kishor sir and kaushik sir for giving me the opportunity to work on this wonderful task.
+
