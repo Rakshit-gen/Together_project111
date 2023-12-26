@@ -8,7 +8,9 @@ Just clone the repo and then do
 ### `cd Together_project111`
 
 then run 
-### 'npm i'
+### `npm i`
 and with this you are good to go.
 
-Use ### 'npm start' to run the project
+To start the project just type
+### `npm start` 
+
