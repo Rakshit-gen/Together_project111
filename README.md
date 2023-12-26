@@ -5,7 +5,7 @@ I created an event lister using ReactJs. It uses a json file called events.json 
 ## How to use
 
 Just clone the repo and then do 
-### 'cd Together_project111'
+### `cd Together_project111`
 
 then run 
 ### 'npm i'
