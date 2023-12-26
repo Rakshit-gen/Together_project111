@@ -8,7 +8,6 @@ const EventList = () => {
   const [events, setEvents] = useState([]);
 
   useEffect(() => {
-    // Replace the path with the actual path to your events.json file
     fetch('http://localhost:3000/events.json')
       .then(response => response.json())
       .then(data => setEvents(data.events))
