@@ -1,0 +1,32 @@
+{
+    "events": [
+    {
+    "id": 1,
+    "name": "React Interns Event",
+    "date": "2023-12-14T10:00:00",
+    "location": "React Hall",
+    "description": "An community event for all react interns"
+    },
+    {
+    "id": 2,
+    "name": "NodeJS ",
+    "date": "2023-12-15T18:30:00",
+    "location": "Backend intern’s hall",
+    "description": "A place for all backend interns come together"
+    },
+    {
+    "id": 3,
+    "name": "NodeJS ",
+    "date": "2023-12-15T18:30:00",
+    "location": "Backend intern’s hall",
+    "description": "A place for all backend interns come together"
+    },
+    {
+    "id": 4,
+    "name": "NodeJS ",
+    "date": "2023-12-15T18:30:00",
+    "location": "Backend intern’s hall",
+    "description": "A place for all backend interns come together"
+    }
+    ]
+    }

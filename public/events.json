@@ -1,0 +1,46 @@
+{
+    "events": [
+    {
+    "id": 1,
+    "name": "React Interns Event",
+    "date": "2024-01-01T10:00:00",
+    "location": "React Hall",
+    "description": "An community event for all react interns"
+    },
+    {
+    "id": 2,
+    "name": "NodeJS ",
+    "date": "2023-12-15T18:30:00",
+    "location": "Backend intern’s hall",
+    "description": "A place for all backend interns come together"
+    },
+    {
+    "id": 3,
+    "name": "Code with me",
+    "date": "2024-03-23T17:30:00",
+    "location": "Town Hall",
+    "description": "Beginner's place for coding and productivity"
+    },
+    {
+    "id": 4,
+    "name": "API integration",
+    "date": "2024-02-23T19:30:00",
+    "location": "Backend intern’s hall",
+    "description": "To learn GET, PUSH, PUT, PATCH and DELETE commands"
+    },
+    {
+    "id": 5,
+    "name": "Lecture Productivity",
+    "date": "2023-12-30T16:30:00",
+    "location": "College Hall",
+    "description": "How to be productive in daily life"
+    },
+    {
+    "id": 6,
+    "name": "Interview Practice",
+    "date": "2023-12-23T19:30:00",
+    "location": "Online Event",
+    "description": "Learn on basics of good interview practices"
+    }
+    ]
+    }
