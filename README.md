@@ -16,5 +16,5 @@ To start the project just type
 
 Add more events in events.json to make the project look better, currently it has 6 events 2 for each section.
 
-### Thank you kishor sir and kaushik sir for giving me the opportunity to work on this wonderful task.
+## Thank you kishor sir and kaushik sir for giving me the opportunity to work on this wonderful task.
 
